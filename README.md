@@ -1,5 +1,4 @@
 # Zevani-
-Zevani is a social media platform for people
 <!DOCTYPE html>
 <html lang="hi"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
